@@ -1,4 +1,4 @@
-# Hi, I'm David Kang 👋
+# Hi, I'm David 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkang0520/)
 
