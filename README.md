@@ -53,3 +53,10 @@ log analysis skills in a real environment.
 
 - [SOC Detection Lab — Splunk SIEM Brute Force Detection](https://github.com/kmjkkang/SOC-Home-Lab)
 - Wireshark Network Traffic Analysis — KSU Academic
+
+## Education
+
+| Degree | School | Details |
+|---|---|---|
+| M.S. Cybersecurity — Information Security | Georgia Institute of Technology | Expected Fall 2026 |
+| B.S. Cybersecurity | Kennesaw State University | GPA: 4.0 |
